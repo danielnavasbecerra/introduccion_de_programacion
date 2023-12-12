@@ -1,4 +1,4 @@
-# Introduccion a la progrqamacion
+# Introduccion a la programacion
 
 
 ## Ejercicios realizados en el skill de programacion
